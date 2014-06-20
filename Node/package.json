@@ -1,0 +1,8 @@
+{
+  "name": "My Awesome Test App",
+  "description": "Something very awesome",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  }
+}
